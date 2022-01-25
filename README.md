@@ -5,6 +5,8 @@ without any JavaScript.
 
 The base design is from the [example](https://purecss.io/layouts/) [blog layout](https://purecss.io/layouts/blog/) from Pure.css.
 
+View demo [here](https://lukki15.github.io/patisserie-hugo-website/).
+
 # Production
 
 ```bash
