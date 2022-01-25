@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Patisserie</title>
-    <link>http://example.org/</link>
+    <link>https://lukki15.github.io/patisserie-hugo-website/</link>
     <description>Recent content in Home on Patisserie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2020 17:27:59 +0700</lastBuildDate><atom:link href="https://lukki15.github.io/patisserie-hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://lukki15.github.io/patisserie-hugo-website/posts/my-first-post/</link>
       <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://lukki15.github.io/patisserie-hugo-website/posts/my-first-post/</guid>
       <description>Here&amp;rsquo;s an example blog post.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://lukki15.github.io/patisserie-hugo-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://lukki15.github.io/patisserie-hugo-website/about/</guid>
       <description>Here&amp;rsquo;s a bit about me.</description>
     </item>
     
     <item>
       <title>Data Protection</title>
-      <link>http://example.org/dataprotection/</link>
+      <link>https://lukki15.github.io/patisserie-hugo-website/dataprotection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/dataprotection/</guid>
+      <guid>https://lukki15.github.io/patisserie-hugo-website/dataprotection/</guid>
       <description>The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of the legal provisions (DSGVO, TKG 2003). In this data protection information, we inform you about the most important aspects of data processing within the framework of our website.
 Your rights In principle, you have the rights to information, correction, deletion, restriction, data portability, revocation and objection. If you believe that the processing of your data violates data protection law or that your data protection rights have been violated in any other way, you can complain to the supervisory authority.</description>
     </item>
     
     <item>
       <title>Side Notice</title>
-      <link>http://example.org/sitenotice/</link>
+      <link>https://lukki15.github.io/patisserie-hugo-website/sitenotice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/sitenotice/</guid>
+      <guid>https://lukki15.github.io/patisserie-hugo-website/sitenotice/</guid>
       <description>Olivia Smith e.U.
 Olivia Smith
 Street 123

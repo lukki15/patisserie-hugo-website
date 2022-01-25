@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/posts/my-first-post/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/posts/</loc>
     <lastmod>2020-09-03T17:27:59+07:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/categories/</loc>
   </url><url>
-    <loc>http://example.org/dataprotection/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/dataprotection/</loc>
   </url><url>
-    <loc>http://example.org/sitenotice/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/sitenotice/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lukki15.github.io/patisserie-hugo-website/tags/</loc>
   </url>
 </urlset>
