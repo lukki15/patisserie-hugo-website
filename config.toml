@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Patisserie"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 20
+  [[menu.footer]]
+    identifier = "siteNotice"
+    name = "Site Notice"
+    url = "/siteNotice"
+    weight = 10
+  [[menu.footer]]
+    identifier = "dataProtection"
+    name = "Data Protection"
+    url = "/dataProtection"
+    weight = 20

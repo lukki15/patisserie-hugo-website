@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ $pureBase := resources.Get "css/pure/pure-min.css" }}
+    {{ $pureGrid := resources.Get "css/pure/grids-responsive-min.css" }}
+    {{ $style := resources.Get "css/style.css" }}
+
+    {{ $css := slice $pureBase $pureGrid $style | resources.Concat "css/bundle.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" type="text/css" media="all" />
+    <!-- Blocks may include default content. -->
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+  </head>
+  <body>
+    <div id="layout" class="pure-g">
+      <!-- Code that all your templates share, like a header -->
+      <div class="sidebar pure-u-1 pure-u-md-1-4 pure-u-lg-1-5">
+        {{ partial "header.html" . }}
+      </div>
+      <div class="content pure-u-1 pure-u-md-3-4 pure-u-lg-4-5">
+        {{ block "main" . }}
+          <!-- The part of the page that begins to differ between templates -->
+        {{ end }}
+        {{ partial "footer.html" . }}
+      </div>
+      {{ block "footer" . }}
+      <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+      {{ end }}
+    </div>
+  </body>
+</html>
+
